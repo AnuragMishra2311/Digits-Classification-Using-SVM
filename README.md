@@ -6,7 +6,7 @@ Dataset Used : Digits Dataset from Sklearn library
 Model : Radial Biased Function Kernel Support Vector Classification Model
 
 
-Accuracy:
+           Accuracy:
          
          Least : 97.91% 
          
