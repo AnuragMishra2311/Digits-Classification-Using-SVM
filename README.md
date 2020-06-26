@@ -3,7 +3,7 @@ Support Vector Classification Algotithm is used to classify the digits.
 
 Dataset Used : Digits Dataset from Sklearn library
 
-Model : Radial Biased Function Kernel Support Vector Classification Model
+Model : Radial Basis Function Kernel Support Vector Classification Model
 
 
            Accuracy:
